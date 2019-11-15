@@ -42,7 +42,13 @@ main {
 }
 
 footer {
-  height: 25%;
+  height: 20%;
   padding: 10px;
   justify-content: center;
+}
+
+.btnStyle {
+  width: 10%;
+  height: fit-content;
+  align-self: center;
 }
